@@ -1,6 +1,6 @@
 # -ongdevelopment
 
-# Ferramentas usadas no Front-end e Back-end.
+# Ferramentas usadas no Front-end,Back-end e Mobile.
 
 React, javascript, Node.
 
